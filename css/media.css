@@ -1,0 +1,31 @@
+@media (max-width:600px) {
+  .intro {
+    flex-direction: column;
+    margin: 0;
+    padding: 10px;
+    background-size: 100% 100%;
+  }
+  .intro-img {
+    display: none;
+  }
+  .intro-content {
+    width: 100%;
+    padding: 20px;
+  }
+  .projects {
+    flex-direction: column;
+  }
+  .projects-left {
+    width: 100%;
+  }
+  .bottom-nav {
+    flex-direction: column; }
+    .bottom-nav li, .bottom-nav button{
+    width: 100%; display: none;
+    padding: 0 auto;
+  }
+  .jobs li,.media1{
+    width: 100% !important;
+  }
+ 
+}
