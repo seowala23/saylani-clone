@@ -290,10 +290,12 @@ button {
   background-color: #dbf6aa;
   padding: 20px;
   text-align: center;
-  width: 150px;
+/*   width: 20px; */
+  width: 200px;
   font-size: 20px;
+  margin:10px;
   margin-bottom: 10px;
-  height: 200px;
+  height: 160px;
   border-radius: 10px;
 }
 
@@ -310,11 +312,11 @@ button {
 .jobs ul li {
   height: 300px;
   cursor: pointer;
-  width: 350px;
+  width: 400px;
   padding: 10px;
   align-content: end;
   color: white;
-  margin-bottom: 10px;
+  margin: 10px;
   border-radius: 10px;
 }
 
@@ -523,7 +525,7 @@ button {
 
 .media .media1 {
   margin: 8px;
-  max-width: 230px;
+  max-width: 300px;
   border-radius: 10px;
   border: 2px solid gray;
 }
