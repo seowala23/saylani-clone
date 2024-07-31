@@ -290,10 +290,10 @@ button {
   background-color: #dbf6aa;
   padding: 20px;
   text-align: center;
-  width: 220px;
+  width: 150px;
   font-size: 20px;
   margin-bottom: 10px;
-  height: 160px;
+  height: 200px;
   border-radius: 10px;
 }
 
@@ -523,7 +523,7 @@ button {
 
 .media .media1 {
   margin: 8px;
-  max-width: 300px;
+  max-width: 250px;
   border-radius: 10px;
   border: 2px solid gray;
 }
